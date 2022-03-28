@@ -1,0 +1,13 @@
+C:\Users\NEXT\source\repos\CursoPOO3\Crear clases3\bin\Debug\netcoreapp3.1\Crear clases3.exe
+C:\Users\NEXT\source\repos\CursoPOO3\Crear clases3\bin\Debug\netcoreapp3.1\Crear clases3.deps.json
+C:\Users\NEXT\source\repos\CursoPOO3\Crear clases3\bin\Debug\netcoreapp3.1\Crear clases3.runtimeconfig.json
+C:\Users\NEXT\source\repos\CursoPOO3\Crear clases3\bin\Debug\netcoreapp3.1\Crear clases3.runtimeconfig.dev.json
+C:\Users\NEXT\source\repos\CursoPOO3\Crear clases3\bin\Debug\netcoreapp3.1\Crear clases3.dll
+C:\Users\NEXT\source\repos\CursoPOO3\Crear clases3\bin\Debug\netcoreapp3.1\Crear clases3.pdb
+C:\Users\NEXT\source\repos\CursoPOO3\Crear clases3\obj\Debug\netcoreapp3.1\Crear clases3.vbproj.AssemblyReference.cache
+C:\Users\NEXT\source\repos\CursoPOO3\Crear clases3\obj\Debug\netcoreapp3.1\Crear clases3.AssemblyInfoInputs.cache
+C:\Users\NEXT\source\repos\CursoPOO3\Crear clases3\obj\Debug\netcoreapp3.1\Crear clases3.AssemblyInfo.vb
+C:\Users\NEXT\source\repos\CursoPOO3\Crear clases3\obj\Debug\netcoreapp3.1\Crear clases3.vbproj.CoreCompileInputs.cache
+C:\Users\NEXT\source\repos\CursoPOO3\Crear clases3\obj\Debug\netcoreapp3.1\Crear clases3.dll
+C:\Users\NEXT\source\repos\CursoPOO3\Crear clases3\obj\Debug\netcoreapp3.1\Crear clases3.pdb
+C:\Users\NEXT\source\repos\CursoPOO3\Crear clases3\obj\Debug\netcoreapp3.1\Crear clases3.genruntimeconfig.cache

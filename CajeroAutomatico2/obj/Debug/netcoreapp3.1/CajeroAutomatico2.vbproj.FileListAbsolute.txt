@@ -1,0 +1,13 @@
+C:\Users\NEXT\source\repos\CajeroAutomatico2\bin\Debug\netcoreapp3.1\CajeroAutomatico2.exe
+C:\Users\NEXT\source\repos\CajeroAutomatico2\bin\Debug\netcoreapp3.1\CajeroAutomatico2.deps.json
+C:\Users\NEXT\source\repos\CajeroAutomatico2\bin\Debug\netcoreapp3.1\CajeroAutomatico2.runtimeconfig.json
+C:\Users\NEXT\source\repos\CajeroAutomatico2\bin\Debug\netcoreapp3.1\CajeroAutomatico2.runtimeconfig.dev.json
+C:\Users\NEXT\source\repos\CajeroAutomatico2\bin\Debug\netcoreapp3.1\CajeroAutomatico2.dll
+C:\Users\NEXT\source\repos\CajeroAutomatico2\bin\Debug\netcoreapp3.1\CajeroAutomatico2.pdb
+C:\Users\NEXT\source\repos\CajeroAutomatico2\obj\Debug\netcoreapp3.1\CajeroAutomatico2.vbproj.AssemblyReference.cache
+C:\Users\NEXT\source\repos\CajeroAutomatico2\obj\Debug\netcoreapp3.1\CajeroAutomatico2.AssemblyInfoInputs.cache
+C:\Users\NEXT\source\repos\CajeroAutomatico2\obj\Debug\netcoreapp3.1\CajeroAutomatico2.AssemblyInfo.vb
+C:\Users\NEXT\source\repos\CajeroAutomatico2\obj\Debug\netcoreapp3.1\CajeroAutomatico2.vbproj.CoreCompileInputs.cache
+C:\Users\NEXT\source\repos\CajeroAutomatico2\obj\Debug\netcoreapp3.1\CajeroAutomatico2.dll
+C:\Users\NEXT\source\repos\CajeroAutomatico2\obj\Debug\netcoreapp3.1\CajeroAutomatico2.pdb
+C:\Users\NEXT\source\repos\CajeroAutomatico2\obj\Debug\netcoreapp3.1\CajeroAutomatico2.genruntimeconfig.cache

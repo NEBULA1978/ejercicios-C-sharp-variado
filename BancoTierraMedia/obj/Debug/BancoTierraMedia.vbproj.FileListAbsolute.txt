@@ -1,0 +1,5 @@
+D:\ejercicios C sharp\BancoTierraMedia\obj\Debug\BancoTierraMedia.vbproj.AssemblyReference.cache
+D:\ejercicios C sharp\BancoTierraMedia\obj\Debug\BancoTierraMedia.Inicio.resources
+D:\ejercicios C sharp\BancoTierraMedia\obj\Debug\BancoTierraMedia.Resources.resources
+D:\ejercicios C sharp\BancoTierraMedia\obj\Debug\BancoTierraMedia.vbproj.GenerateResource.cache
+D:\ejercicios C sharp\BancoTierraMedia\obj\Debug\BancoTierraMedia.vbproj.CoreCompileInputs.cache

@@ -1,0 +1,11 @@
+C:\Users\NEXT\source\repos\Excepciones vid18\bin\Debug\Excepciones vid18.exe.config
+C:\Users\NEXT\source\repos\Excepciones vid18\bin\Debug\Excepciones vid18.exe
+C:\Users\NEXT\source\repos\Excepciones vid18\bin\Debug\Excepciones vid18.pdb
+C:\Users\NEXT\source\repos\Excepciones vid18\bin\Debug\Excepciones vid18.xml
+C:\Users\NEXT\source\repos\Excepciones vid18\obj\Debug\Excepciones vid18.vbproj.AssemblyReference.cache
+C:\Users\NEXT\source\repos\Excepciones vid18\obj\Debug\Excepciones_vid18.Resources.resources
+C:\Users\NEXT\source\repos\Excepciones vid18\obj\Debug\Excepciones vid18.vbproj.GenerateResource.cache
+C:\Users\NEXT\source\repos\Excepciones vid18\obj\Debug\Excepciones vid18.vbproj.CoreCompileInputs.cache
+C:\Users\NEXT\source\repos\Excepciones vid18\obj\Debug\Excepciones vid18.exe
+C:\Users\NEXT\source\repos\Excepciones vid18\obj\Debug\Excepciones vid18.xml
+C:\Users\NEXT\source\repos\Excepciones vid18\obj\Debug\Excepciones vid18.pdb

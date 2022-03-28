@@ -1,0 +1,26 @@
+C:\Users\NEXT\source\repos\video7CSharpCondicionales2\video7CSharpCondicionales2\bin\Debug\netcoreapp3.1\video7CSharpCondicionales2.exe
+C:\Users\NEXT\source\repos\video7CSharpCondicionales2\video7CSharpCondicionales2\bin\Debug\netcoreapp3.1\video7CSharpCondicionales2.deps.json
+C:\Users\NEXT\source\repos\video7CSharpCondicionales2\video7CSharpCondicionales2\bin\Debug\netcoreapp3.1\video7CSharpCondicionales2.runtimeconfig.json
+C:\Users\NEXT\source\repos\video7CSharpCondicionales2\video7CSharpCondicionales2\bin\Debug\netcoreapp3.1\video7CSharpCondicionales2.runtimeconfig.dev.json
+C:\Users\NEXT\source\repos\video7CSharpCondicionales2\video7CSharpCondicionales2\bin\Debug\netcoreapp3.1\video7CSharpCondicionales2.dll
+C:\Users\NEXT\source\repos\video7CSharpCondicionales2\video7CSharpCondicionales2\bin\Debug\netcoreapp3.1\video7CSharpCondicionales2.pdb
+C:\Users\NEXT\source\repos\video7CSharpCondicionales2\video7CSharpCondicionales2\obj\Debug\netcoreapp3.1\video7CSharpCondicionales2.vbproj.AssemblyReference.cache
+C:\Users\NEXT\source\repos\video7CSharpCondicionales2\video7CSharpCondicionales2\obj\Debug\netcoreapp3.1\video7CSharpCondicionales2.AssemblyInfoInputs.cache
+C:\Users\NEXT\source\repos\video7CSharpCondicionales2\video7CSharpCondicionales2\obj\Debug\netcoreapp3.1\video7CSharpCondicionales2.AssemblyInfo.vb
+C:\Users\NEXT\source\repos\video7CSharpCondicionales2\video7CSharpCondicionales2\obj\Debug\netcoreapp3.1\video7CSharpCondicionales2.vbproj.CoreCompileInputs.cache
+C:\Users\NEXT\source\repos\video7CSharpCondicionales2\video7CSharpCondicionales2\obj\Debug\netcoreapp3.1\video7CSharpCondicionales2.dll
+C:\Users\NEXT\source\repos\video7CSharpCondicionales2\video7CSharpCondicionales2\obj\Debug\netcoreapp3.1\video7CSharpCondicionales2.pdb
+C:\Users\NEXT\source\repos\video7CSharpCondicionales2\video7CSharpCondicionales2\obj\Debug\netcoreapp3.1\video7CSharpCondicionales2.genruntimeconfig.cache
+H:\ejercicios C sharp\video7CSharpCondicionales2\video7CSharpCondicionales2\obj\Debug\netcoreapp3.1\video7CSharpCondicionales2.vbproj.AssemblyReference.cache
+H:\ejercicios C sharp\video7CSharpCondicionales2\video7CSharpCondicionales2\obj\Debug\netcoreapp3.1\video7CSharpCondicionales2.AssemblyInfoInputs.cache
+H:\ejercicios C sharp\video7CSharpCondicionales2\video7CSharpCondicionales2\obj\Debug\netcoreapp3.1\video7CSharpCondicionales2.AssemblyInfo.vb
+H:\ejercicios C sharp\video7CSharpCondicionales2\video7CSharpCondicionales2\obj\Debug\netcoreapp3.1\video7CSharpCondicionales2.vbproj.CoreCompileInputs.cache
+H:\ejercicios C sharp\video7CSharpCondicionales2\video7CSharpCondicionales2\obj\Debug\netcoreapp3.1\video7CSharpCondicionales2.dll
+H:\ejercicios C sharp\video7CSharpCondicionales2\video7CSharpCondicionales2\obj\Debug\netcoreapp3.1\video7CSharpCondicionales2.pdb
+H:\ejercicios C sharp\video7CSharpCondicionales2\video7CSharpCondicionales2\bin\Debug\netcoreapp3.1\video7CSharpCondicionales2.exe
+H:\ejercicios C sharp\video7CSharpCondicionales2\video7CSharpCondicionales2\bin\Debug\netcoreapp3.1\video7CSharpCondicionales2.deps.json
+H:\ejercicios C sharp\video7CSharpCondicionales2\video7CSharpCondicionales2\bin\Debug\netcoreapp3.1\video7CSharpCondicionales2.runtimeconfig.json
+H:\ejercicios C sharp\video7CSharpCondicionales2\video7CSharpCondicionales2\bin\Debug\netcoreapp3.1\video7CSharpCondicionales2.runtimeconfig.dev.json
+H:\ejercicios C sharp\video7CSharpCondicionales2\video7CSharpCondicionales2\bin\Debug\netcoreapp3.1\video7CSharpCondicionales2.dll
+H:\ejercicios C sharp\video7CSharpCondicionales2\video7CSharpCondicionales2\bin\Debug\netcoreapp3.1\video7CSharpCondicionales2.pdb
+H:\ejercicios C sharp\video7CSharpCondicionales2\video7CSharpCondicionales2\obj\Debug\netcoreapp3.1\video7CSharpCondicionales2.genruntimeconfig.cache

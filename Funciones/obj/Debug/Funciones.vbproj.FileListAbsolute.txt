@@ -1,0 +1,22 @@
+C:\Users\NEXT\source\repos\Funciones\bin\Debug\Funciones.exe.config
+C:\Users\NEXT\source\repos\Funciones\bin\Debug\Funciones.exe
+C:\Users\NEXT\source\repos\Funciones\bin\Debug\Funciones.pdb
+C:\Users\NEXT\source\repos\Funciones\bin\Debug\Funciones.xml
+C:\Users\NEXT\source\repos\Funciones\obj\Debug\Funciones.vbproj.AssemblyReference.cache
+C:\Users\NEXT\source\repos\Funciones\obj\Debug\Funciones.Resources.resources
+C:\Users\NEXT\source\repos\Funciones\obj\Debug\Funciones.vbproj.GenerateResource.cache
+C:\Users\NEXT\source\repos\Funciones\obj\Debug\Funciones.vbproj.CoreCompileInputs.cache
+C:\Users\NEXT\source\repos\Funciones\obj\Debug\Funciones.exe
+C:\Users\NEXT\source\repos\Funciones\obj\Debug\Funciones.xml
+C:\Users\NEXT\source\repos\Funciones\obj\Debug\Funciones.pdb
+D:\ejercicios C sharp\Funciones\bin\Debug\Funciones.exe.config
+D:\ejercicios C sharp\Funciones\bin\Debug\Funciones.exe
+D:\ejercicios C sharp\Funciones\bin\Debug\Funciones.pdb
+D:\ejercicios C sharp\Funciones\bin\Debug\Funciones.xml
+D:\ejercicios C sharp\Funciones\obj\Debug\Funciones.vbproj.AssemblyReference.cache
+D:\ejercicios C sharp\Funciones\obj\Debug\Funciones.Resources.resources
+D:\ejercicios C sharp\Funciones\obj\Debug\Funciones.vbproj.GenerateResource.cache
+D:\ejercicios C sharp\Funciones\obj\Debug\Funciones.vbproj.CoreCompileInputs.cache
+D:\ejercicios C sharp\Funciones\obj\Debug\Funciones.exe
+D:\ejercicios C sharp\Funciones\obj\Debug\Funciones.xml
+D:\ejercicios C sharp\Funciones\obj\Debug\Funciones.pdb

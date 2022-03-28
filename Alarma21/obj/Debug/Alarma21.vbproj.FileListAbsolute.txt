@@ -1,0 +1,11 @@
+D:\ejercicios C sharp\Alarma21\bin\Debug\Alarma21.exe.config
+D:\ejercicios C sharp\Alarma21\bin\Debug\Alarma21.exe
+D:\ejercicios C sharp\Alarma21\bin\Debug\Alarma21.pdb
+D:\ejercicios C sharp\Alarma21\bin\Debug\Alarma21.xml
+D:\ejercicios C sharp\Alarma21\obj\Debug\Alarma21.vbproj.AssemblyReference.cache
+D:\ejercicios C sharp\Alarma21\obj\Debug\Alarma21.Resources.resources
+D:\ejercicios C sharp\Alarma21\obj\Debug\Alarma21.vbproj.GenerateResource.cache
+D:\ejercicios C sharp\Alarma21\obj\Debug\Alarma21.vbproj.CoreCompileInputs.cache
+D:\ejercicios C sharp\Alarma21\obj\Debug\Alarma21.exe
+D:\ejercicios C sharp\Alarma21\obj\Debug\Alarma21.xml
+D:\ejercicios C sharp\Alarma21\obj\Debug\Alarma21.pdb

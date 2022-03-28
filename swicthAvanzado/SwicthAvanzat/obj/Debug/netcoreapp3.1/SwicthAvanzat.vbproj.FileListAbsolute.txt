@@ -1,0 +1,13 @@
+C:\Users\NEXT\source\repos\swicthAvanzado\SwicthAvanzat\bin\Debug\netcoreapp3.1\SwicthAvanzat.exe
+C:\Users\NEXT\source\repos\swicthAvanzado\SwicthAvanzat\bin\Debug\netcoreapp3.1\SwicthAvanzat.deps.json
+C:\Users\NEXT\source\repos\swicthAvanzado\SwicthAvanzat\bin\Debug\netcoreapp3.1\SwicthAvanzat.runtimeconfig.json
+C:\Users\NEXT\source\repos\swicthAvanzado\SwicthAvanzat\bin\Debug\netcoreapp3.1\SwicthAvanzat.runtimeconfig.dev.json
+C:\Users\NEXT\source\repos\swicthAvanzado\SwicthAvanzat\bin\Debug\netcoreapp3.1\SwicthAvanzat.dll
+C:\Users\NEXT\source\repos\swicthAvanzado\SwicthAvanzat\bin\Debug\netcoreapp3.1\SwicthAvanzat.pdb
+C:\Users\NEXT\source\repos\swicthAvanzado\SwicthAvanzat\obj\Debug\netcoreapp3.1\SwicthAvanzat.vbproj.AssemblyReference.cache
+C:\Users\NEXT\source\repos\swicthAvanzado\SwicthAvanzat\obj\Debug\netcoreapp3.1\SwicthAvanzat.AssemblyInfoInputs.cache
+C:\Users\NEXT\source\repos\swicthAvanzado\SwicthAvanzat\obj\Debug\netcoreapp3.1\SwicthAvanzat.AssemblyInfo.vb
+C:\Users\NEXT\source\repos\swicthAvanzado\SwicthAvanzat\obj\Debug\netcoreapp3.1\SwicthAvanzat.vbproj.CoreCompileInputs.cache
+C:\Users\NEXT\source\repos\swicthAvanzado\SwicthAvanzat\obj\Debug\netcoreapp3.1\SwicthAvanzat.dll
+C:\Users\NEXT\source\repos\swicthAvanzado\SwicthAvanzat\obj\Debug\netcoreapp3.1\SwicthAvanzat.pdb
+C:\Users\NEXT\source\repos\swicthAvanzado\SwicthAvanzat\obj\Debug\netcoreapp3.1\SwicthAvanzat.genruntimeconfig.cache

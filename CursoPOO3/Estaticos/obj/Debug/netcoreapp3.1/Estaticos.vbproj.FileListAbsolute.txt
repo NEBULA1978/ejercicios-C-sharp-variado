@@ -1,0 +1,13 @@
+C:\Users\NEXT\source\repos\CursoPOO3\Estaticos\bin\Debug\netcoreapp3.1\Estaticos.exe
+C:\Users\NEXT\source\repos\CursoPOO3\Estaticos\bin\Debug\netcoreapp3.1\Estaticos.deps.json
+C:\Users\NEXT\source\repos\CursoPOO3\Estaticos\bin\Debug\netcoreapp3.1\Estaticos.runtimeconfig.json
+C:\Users\NEXT\source\repos\CursoPOO3\Estaticos\bin\Debug\netcoreapp3.1\Estaticos.runtimeconfig.dev.json
+C:\Users\NEXT\source\repos\CursoPOO3\Estaticos\bin\Debug\netcoreapp3.1\Estaticos.dll
+C:\Users\NEXT\source\repos\CursoPOO3\Estaticos\bin\Debug\netcoreapp3.1\Estaticos.pdb
+C:\Users\NEXT\source\repos\CursoPOO3\Estaticos\obj\Debug\netcoreapp3.1\Estaticos.vbproj.AssemblyReference.cache
+C:\Users\NEXT\source\repos\CursoPOO3\Estaticos\obj\Debug\netcoreapp3.1\Estaticos.AssemblyInfoInputs.cache
+C:\Users\NEXT\source\repos\CursoPOO3\Estaticos\obj\Debug\netcoreapp3.1\Estaticos.AssemblyInfo.vb
+C:\Users\NEXT\source\repos\CursoPOO3\Estaticos\obj\Debug\netcoreapp3.1\Estaticos.vbproj.CoreCompileInputs.cache
+C:\Users\NEXT\source\repos\CursoPOO3\Estaticos\obj\Debug\netcoreapp3.1\Estaticos.dll
+C:\Users\NEXT\source\repos\CursoPOO3\Estaticos\obj\Debug\netcoreapp3.1\Estaticos.pdb
+C:\Users\NEXT\source\repos\CursoPOO3\Estaticos\obj\Debug\netcoreapp3.1\Estaticos.genruntimeconfig.cache

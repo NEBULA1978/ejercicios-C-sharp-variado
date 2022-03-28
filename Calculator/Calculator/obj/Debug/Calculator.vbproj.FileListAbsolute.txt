@@ -1,0 +1,24 @@
+C:\Users\NEXT\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\NEXT\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\NEXT\source\repos\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\NEXT\source\repos\Calculator\Calculator\bin\Debug\Calculator.xml
+C:\Users\NEXT\source\repos\Calculator\Calculator\obj\Debug\Calculator.vbproj.AssemblyReference.cache
+C:\Users\NEXT\source\repos\Calculator\Calculator\obj\Debug\Calculator.frmPrincipal.resources
+C:\Users\NEXT\source\repos\Calculator\Calculator\obj\Debug\Calculator.Resources.resources
+C:\Users\NEXT\source\repos\Calculator\Calculator\obj\Debug\Calculator.vbproj.GenerateResource.cache
+C:\Users\NEXT\source\repos\Calculator\Calculator\obj\Debug\Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\NEXT\source\repos\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\NEXT\source\repos\Calculator\Calculator\obj\Debug\Calculator.xml
+C:\Users\NEXT\source\repos\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\ejercicios C sharp\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\ejercicios C sharp\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\ejercicios C sharp\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\ejercicios C sharp\Calculator\Calculator\bin\Debug\Calculator.xml
+D:\ejercicios C sharp\Calculator\Calculator\obj\Debug\Calculator.vbproj.AssemblyReference.cache
+D:\ejercicios C sharp\Calculator\Calculator\obj\Debug\Calculator.frmPrincipal.resources
+D:\ejercicios C sharp\Calculator\Calculator\obj\Debug\Calculator.Resources.resources
+D:\ejercicios C sharp\Calculator\Calculator\obj\Debug\Calculator.vbproj.GenerateResource.cache
+D:\ejercicios C sharp\Calculator\Calculator\obj\Debug\Calculator.vbproj.CoreCompileInputs.cache
+D:\ejercicios C sharp\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\ejercicios C sharp\Calculator\Calculator\obj\Debug\Calculator.xml
+D:\ejercicios C sharp\Calculator\Calculator\obj\Debug\Calculator.pdb

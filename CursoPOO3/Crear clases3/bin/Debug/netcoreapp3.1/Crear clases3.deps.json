@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Crear clases3/1.0.0": {
+        "runtime": {
+          "Crear clases3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Crear clases3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

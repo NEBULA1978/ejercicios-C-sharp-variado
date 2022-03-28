@@ -1,0 +1,2 @@
+C:\Users\NEXT\source\repos\POO pokemon\Pokemon POO yea\obj\Debug\Pokemon POO yea.csproj.AssemblyReference.cache
+C:\Users\NEXT\source\repos\POO pokemon\Pokemon POO yea\obj\Debug\Pokemon POO yea.csproj.CoreCompileInputs.cache

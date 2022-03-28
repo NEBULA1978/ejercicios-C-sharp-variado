@@ -1,0 +1,12 @@
+D:\ejercicios C sharp\calculadora2\calculadora2\bin\Debug\calculadora2.exe.config
+D:\ejercicios C sharp\calculadora2\calculadora2\bin\Debug\calculadora2.exe
+D:\ejercicios C sharp\calculadora2\calculadora2\bin\Debug\calculadora2.pdb
+D:\ejercicios C sharp\calculadora2\calculadora2\bin\Debug\calculadora2.xml
+D:\ejercicios C sharp\calculadora2\calculadora2\obj\Debug\calculadora2.vbproj.AssemblyReference.cache
+D:\ejercicios C sharp\calculadora2\calculadora2\obj\Debug\calculadora2.Form1.resources
+D:\ejercicios C sharp\calculadora2\calculadora2\obj\Debug\calculadora2.Resources.resources
+D:\ejercicios C sharp\calculadora2\calculadora2\obj\Debug\calculadora2.vbproj.GenerateResource.cache
+D:\ejercicios C sharp\calculadora2\calculadora2\obj\Debug\calculadora2.vbproj.CoreCompileInputs.cache
+D:\ejercicios C sharp\calculadora2\calculadora2\obj\Debug\calculadora2.exe
+D:\ejercicios C sharp\calculadora2\calculadora2\obj\Debug\calculadora2.xml
+D:\ejercicios C sharp\calculadora2\calculadora2\obj\Debug\calculadora2.pdb

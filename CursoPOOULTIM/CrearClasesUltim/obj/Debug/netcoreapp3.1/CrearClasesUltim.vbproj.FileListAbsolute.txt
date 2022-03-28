@@ -1,0 +1,19 @@
+C:\Users\NEXT\source\repos\CursoPOOULTIM\CrearClasesUltim\bin\Debug\netcoreapp3.1\CrearClasesUltim.exe
+C:\Users\NEXT\source\repos\CursoPOOULTIM\CrearClasesUltim\bin\Debug\netcoreapp3.1\CrearClasesUltim.deps.json
+C:\Users\NEXT\source\repos\CursoPOOULTIM\CrearClasesUltim\bin\Debug\netcoreapp3.1\CrearClasesUltim.runtimeconfig.json
+C:\Users\NEXT\source\repos\CursoPOOULTIM\CrearClasesUltim\bin\Debug\netcoreapp3.1\CrearClasesUltim.runtimeconfig.dev.json
+C:\Users\NEXT\source\repos\CursoPOOULTIM\CrearClasesUltim\bin\Debug\netcoreapp3.1\CrearClasesUltim.dll
+C:\Users\NEXT\source\repos\CursoPOOULTIM\CrearClasesUltim\bin\Debug\netcoreapp3.1\CrearClasesUltim.pdb
+C:\Users\NEXT\source\repos\CursoPOOULTIM\CrearClasesUltim\obj\Debug\netcoreapp3.1\CrearClasesUltim.vbproj.AssemblyReference.cache
+C:\Users\NEXT\source\repos\CursoPOOULTIM\CrearClasesUltim\obj\Debug\netcoreapp3.1\CrearClasesUltim.AssemblyInfoInputs.cache
+C:\Users\NEXT\source\repos\CursoPOOULTIM\CrearClasesUltim\obj\Debug\netcoreapp3.1\CrearClasesUltim.AssemblyInfo.vb
+C:\Users\NEXT\source\repos\CursoPOOULTIM\CrearClasesUltim\obj\Debug\netcoreapp3.1\CrearClasesUltim.vbproj.CoreCompileInputs.cache
+C:\Users\NEXT\source\repos\CursoPOOULTIM\CrearClasesUltim\obj\Debug\netcoreapp3.1\CrearClasesUltim.dll
+C:\Users\NEXT\source\repos\CursoPOOULTIM\CrearClasesUltim\obj\Debug\netcoreapp3.1\CrearClasesUltim.pdb
+C:\Users\NEXT\source\repos\CursoPOOULTIM\CrearClasesUltim\obj\Debug\netcoreapp3.1\CrearClasesUltim.genruntimeconfig.cache
+G:\ejercicios C sharp\CursoPOOULTIM\CrearClasesUltim\obj\Debug\netcoreapp3.1\CrearClasesUltim.vbproj.AssemblyReference.cache
+G:\ejercicios C sharp\CursoPOOULTIM\CrearClasesUltim\obj\Debug\netcoreapp3.1\CrearClasesUltim.AssemblyInfoInputs.cache
+G:\ejercicios C sharp\CursoPOOULTIM\CrearClasesUltim\obj\Debug\netcoreapp3.1\CrearClasesUltim.AssemblyInfo.vb
+G:\ejercicios C sharp\CursoPOOULTIM\CrearClasesUltim\obj\Debug\netcoreapp3.1\CrearClasesUltim.vbproj.CoreCompileInputs.cache
+G:\ejercicios C sharp\CursoPOOULTIM\CrearClasesUltim\obj\Debug\netcoreapp3.1\CrearClasesUltim.dll
+G:\ejercicios C sharp\CursoPOOULTIM\CrearClasesUltim\obj\Debug\netcoreapp3.1\CrearClasesUltim.pdb

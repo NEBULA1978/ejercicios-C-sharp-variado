@@ -1,0 +1,10 @@
+C:\Users\NEXT\source\repos\Parametros\bin\Debug\Parametros.exe.config
+C:\Users\NEXT\source\repos\Parametros\bin\Debug\Parametros.exe
+C:\Users\NEXT\source\repos\Parametros\bin\Debug\Parametros.pdb
+C:\Users\NEXT\source\repos\Parametros\bin\Debug\Parametros.xml
+C:\Users\NEXT\source\repos\Parametros\obj\Debug\Parametros.Resources.resources
+C:\Users\NEXT\source\repos\Parametros\obj\Debug\Parametros.vbproj.GenerateResource.cache
+C:\Users\NEXT\source\repos\Parametros\obj\Debug\Parametros.vbproj.CoreCompileInputs.cache
+C:\Users\NEXT\source\repos\Parametros\obj\Debug\Parametros.exe
+C:\Users\NEXT\source\repos\Parametros\obj\Debug\Parametros.xml
+C:\Users\NEXT\source\repos\Parametros\obj\Debug\Parametros.pdb

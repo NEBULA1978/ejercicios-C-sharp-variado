@@ -1,0 +1,7 @@
+C:\Users\NEXT\source\repos\curso_CSharp\Variables y constantes\obj\Debug\Variables y constantes.csproj.AssemblyReference.cache
+C:\Users\NEXT\source\repos\curso_CSharp\Variables y constantes\obj\Debug\Variables y constantes.csproj.CoreCompileInputs.cache
+C:\Users\NEXT\source\repos\curso_CSharp\Variables y constantes\bin\Debug\Variables y constantes.exe.config
+C:\Users\NEXT\source\repos\curso_CSharp\Variables y constantes\bin\Debug\Variables y constantes.exe
+C:\Users\NEXT\source\repos\curso_CSharp\Variables y constantes\bin\Debug\Variables y constantes.pdb
+C:\Users\NEXT\source\repos\curso_CSharp\Variables y constantes\obj\Debug\Variables y constantes.exe
+C:\Users\NEXT\source\repos\curso_CSharp\Variables y constantes\obj\Debug\Variables y constantes.pdb

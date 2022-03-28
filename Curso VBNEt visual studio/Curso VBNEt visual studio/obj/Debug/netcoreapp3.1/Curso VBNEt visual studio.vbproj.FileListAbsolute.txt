@@ -1,0 +1,13 @@
+C:\Users\NEXT\source\repos\Curso VBNEt visual studio\Curso VBNEt visual studio\bin\Debug\netcoreapp3.1\Curso VBNEt visual studio.exe
+C:\Users\NEXT\source\repos\Curso VBNEt visual studio\Curso VBNEt visual studio\bin\Debug\netcoreapp3.1\Curso VBNEt visual studio.deps.json
+C:\Users\NEXT\source\repos\Curso VBNEt visual studio\Curso VBNEt visual studio\bin\Debug\netcoreapp3.1\Curso VBNEt visual studio.runtimeconfig.json
+C:\Users\NEXT\source\repos\Curso VBNEt visual studio\Curso VBNEt visual studio\bin\Debug\netcoreapp3.1\Curso VBNEt visual studio.runtimeconfig.dev.json
+C:\Users\NEXT\source\repos\Curso VBNEt visual studio\Curso VBNEt visual studio\bin\Debug\netcoreapp3.1\Curso VBNEt visual studio.dll
+C:\Users\NEXT\source\repos\Curso VBNEt visual studio\Curso VBNEt visual studio\bin\Debug\netcoreapp3.1\Curso VBNEt visual studio.pdb
+C:\Users\NEXT\source\repos\Curso VBNEt visual studio\Curso VBNEt visual studio\obj\Debug\netcoreapp3.1\Curso VBNEt visual studio.vbproj.AssemblyReference.cache
+C:\Users\NEXT\source\repos\Curso VBNEt visual studio\Curso VBNEt visual studio\obj\Debug\netcoreapp3.1\Curso VBNEt visual studio.AssemblyInfoInputs.cache
+C:\Users\NEXT\source\repos\Curso VBNEt visual studio\Curso VBNEt visual studio\obj\Debug\netcoreapp3.1\Curso VBNEt visual studio.AssemblyInfo.vb
+C:\Users\NEXT\source\repos\Curso VBNEt visual studio\Curso VBNEt visual studio\obj\Debug\netcoreapp3.1\Curso VBNEt visual studio.vbproj.CoreCompileInputs.cache
+C:\Users\NEXT\source\repos\Curso VBNEt visual studio\Curso VBNEt visual studio\obj\Debug\netcoreapp3.1\Curso VBNEt visual studio.dll
+C:\Users\NEXT\source\repos\Curso VBNEt visual studio\Curso VBNEt visual studio\obj\Debug\netcoreapp3.1\Curso VBNEt visual studio.pdb
+C:\Users\NEXT\source\repos\Curso VBNEt visual studio\Curso VBNEt visual studio\obj\Debug\netcoreapp3.1\Curso VBNEt visual studio.genruntimeconfig.cache

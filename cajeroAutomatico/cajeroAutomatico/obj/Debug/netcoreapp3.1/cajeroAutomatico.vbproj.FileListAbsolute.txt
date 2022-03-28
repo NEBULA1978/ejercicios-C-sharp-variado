@@ -1,0 +1,18 @@
+C:\Users\NEXT\source\repos\cajeroAutomatico\cajeroAutomatico\bin\Debug\netcoreapp3.1\cajeroAutomatico.exe
+C:\Users\NEXT\source\repos\cajeroAutomatico\cajeroAutomatico\bin\Debug\netcoreapp3.1\cajeroAutomatico.deps.json
+C:\Users\NEXT\source\repos\cajeroAutomatico\cajeroAutomatico\bin\Debug\netcoreapp3.1\cajeroAutomatico.runtimeconfig.json
+C:\Users\NEXT\source\repos\cajeroAutomatico\cajeroAutomatico\bin\Debug\netcoreapp3.1\cajeroAutomatico.runtimeconfig.dev.json
+C:\Users\NEXT\source\repos\cajeroAutomatico\cajeroAutomatico\bin\Debug\netcoreapp3.1\cajeroAutomatico.dll
+C:\Users\NEXT\source\repos\cajeroAutomatico\cajeroAutomatico\bin\Debug\netcoreapp3.1\cajeroAutomatico.pdb
+C:\Users\NEXT\source\repos\cajeroAutomatico\cajeroAutomatico\obj\Debug\netcoreapp3.1\cajeroAutomatico.AssemblyInfoInputs.cache
+C:\Users\NEXT\source\repos\cajeroAutomatico\cajeroAutomatico\obj\Debug\netcoreapp3.1\cajeroAutomatico.AssemblyInfo.vb
+C:\Users\NEXT\source\repos\cajeroAutomatico\cajeroAutomatico\obj\Debug\netcoreapp3.1\cajeroAutomatico.vbproj.CoreCompileInputs.cache
+C:\Users\NEXT\source\repos\cajeroAutomatico\cajeroAutomatico\obj\Debug\netcoreapp3.1\cajeroAutomatico.dll
+C:\Users\NEXT\source\repos\cajeroAutomatico\cajeroAutomatico\obj\Debug\netcoreapp3.1\cajeroAutomatico.pdb
+C:\Users\NEXT\source\repos\cajeroAutomatico\cajeroAutomatico\obj\Debug\netcoreapp3.1\cajeroAutomatico.genruntimeconfig.cache
+D:\ejercicios C sharp\cajeroAutomatico\cajeroAutomatico\obj\Debug\netcoreapp3.1\cajeroAutomatico.vbproj.AssemblyReference.cache
+D:\ejercicios C sharp\cajeroAutomatico\cajeroAutomatico\obj\Debug\netcoreapp3.1\cajeroAutomatico.AssemblyInfoInputs.cache
+D:\ejercicios C sharp\cajeroAutomatico\cajeroAutomatico\obj\Debug\netcoreapp3.1\cajeroAutomatico.AssemblyInfo.vb
+D:\ejercicios C sharp\cajeroAutomatico\cajeroAutomatico\obj\Debug\netcoreapp3.1\cajeroAutomatico.vbproj.CoreCompileInputs.cache
+D:\ejercicios C sharp\cajeroAutomatico\cajeroAutomatico\obj\Debug\netcoreapp3.1\cajeroAutomatico.dll
+D:\ejercicios C sharp\cajeroAutomatico\cajeroAutomatico\obj\Debug\netcoreapp3.1\cajeroAutomatico.pdb

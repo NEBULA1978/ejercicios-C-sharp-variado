@@ -1,0 +1,2 @@
+﻿  Intercambiar valores.cpp
+C:\Users\NEXT\source\repos\Intercambiar valores\Intercambiar valores.cpp(31,1): error C2146: error de sintaxis: falta ';' delante del identificador '_getch'

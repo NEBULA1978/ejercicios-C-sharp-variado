@@ -1,0 +1,7 @@
+C:\Users\NEXT\source\repos\Switch\SitchYeaa\bin\Debug\SitchYeaa.exe.config
+C:\Users\NEXT\source\repos\Switch\SitchYeaa\bin\Debug\SitchYeaa.exe
+C:\Users\NEXT\source\repos\Switch\SitchYeaa\bin\Debug\SitchYeaa.pdb
+C:\Users\NEXT\source\repos\Switch\SitchYeaa\obj\Debug\SitchYeaa.csproj.AssemblyReference.cache
+C:\Users\NEXT\source\repos\Switch\SitchYeaa\obj\Debug\SitchYeaa.csproj.CoreCompileInputs.cache
+C:\Users\NEXT\source\repos\Switch\SitchYeaa\obj\Debug\SitchYeaa.exe
+C:\Users\NEXT\source\repos\Switch\SitchYeaa\obj\Debug\SitchYeaa.pdb

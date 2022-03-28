@@ -1,0 +1,11 @@
+C:\Users\NEXT\source\repos\Variables\Variables\bin\Debug\Variables.dll
+C:\Users\NEXT\source\repos\Variables\Variables\bin\Debug\Variables.pdb
+C:\Users\NEXT\source\repos\Variables\Variables\bin\Debug\Variables.xml
+C:\Users\NEXT\source\repos\Variables\Variables\obj\Debug\Variables.vbproj.AssemblyReference.cache
+C:\Users\NEXT\source\repos\Variables\Variables\obj\Debug\Variables.Resources.resources
+C:\Users\NEXT\source\repos\Variables\Variables\obj\Debug\Variables.UserControl1.resources
+C:\Users\NEXT\source\repos\Variables\Variables\obj\Debug\Variables.vbproj.GenerateResource.cache
+C:\Users\NEXT\source\repos\Variables\Variables\obj\Debug\Variables.vbproj.CoreCompileInputs.cache
+C:\Users\NEXT\source\repos\Variables\Variables\obj\Debug\Variables.dll
+C:\Users\NEXT\source\repos\Variables\Variables\obj\Debug\Variables.xml
+C:\Users\NEXT\source\repos\Variables\Variables\obj\Debug\Variables.pdb

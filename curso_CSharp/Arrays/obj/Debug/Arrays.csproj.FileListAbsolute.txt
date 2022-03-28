@@ -1,0 +1,14 @@
+C:\Users\NEXT\source\repos\curso_CSharp\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\NEXT\source\repos\curso_CSharp\Arrays\bin\Debug\Arrays.exe
+C:\Users\NEXT\source\repos\curso_CSharp\Arrays\bin\Debug\Arrays.pdb
+C:\Users\NEXT\source\repos\curso_CSharp\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+C:\Users\NEXT\source\repos\curso_CSharp\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\NEXT\source\repos\curso_CSharp\Arrays\obj\Debug\Arrays.exe
+C:\Users\NEXT\source\repos\curso_CSharp\Arrays\obj\Debug\Arrays.pdb
+D:\ejercicios C sharp\curso_CSharp\Arrays\bin\Debug\Arrays.exe.config
+D:\ejercicios C sharp\curso_CSharp\Arrays\bin\Debug\Arrays.exe
+D:\ejercicios C sharp\curso_CSharp\Arrays\bin\Debug\Arrays.pdb
+D:\ejercicios C sharp\curso_CSharp\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+D:\ejercicios C sharp\curso_CSharp\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+D:\ejercicios C sharp\curso_CSharp\Arrays\obj\Debug\Arrays.exe
+D:\ejercicios C sharp\curso_CSharp\Arrays\obj\Debug\Arrays.pdb

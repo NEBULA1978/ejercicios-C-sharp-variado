@@ -1,0 +1,12 @@
+C:\Users\NEXT\source\repos\Alarma\bin\Debug\Alarma.exe.config
+C:\Users\NEXT\source\repos\Alarma\bin\Debug\Alarma.exe
+C:\Users\NEXT\source\repos\Alarma\bin\Debug\Alarma.pdb
+C:\Users\NEXT\source\repos\Alarma\bin\Debug\Alarma.xml
+C:\Users\NEXT\source\repos\Alarma\obj\Debug\Alarma.vbproj.AssemblyReference.cache
+C:\Users\NEXT\source\repos\Alarma\obj\Debug\Alarma.Form1.resources
+C:\Users\NEXT\source\repos\Alarma\obj\Debug\Alarma.Resources.resources
+C:\Users\NEXT\source\repos\Alarma\obj\Debug\Alarma.vbproj.GenerateResource.cache
+C:\Users\NEXT\source\repos\Alarma\obj\Debug\Alarma.vbproj.CoreCompileInputs.cache
+C:\Users\NEXT\source\repos\Alarma\obj\Debug\Alarma.exe
+C:\Users\NEXT\source\repos\Alarma\obj\Debug\Alarma.xml
+C:\Users\NEXT\source\repos\Alarma\obj\Debug\Alarma.pdb

@@ -1,0 +1,13 @@
+C:\Users\NEXT\source\repos\CursoPOOyeapp\CalsesEstaticas\bin\Debug\netcoreapp3.1\CalsesEstaticas.exe
+C:\Users\NEXT\source\repos\CursoPOOyeapp\CalsesEstaticas\bin\Debug\netcoreapp3.1\CalsesEstaticas.deps.json
+C:\Users\NEXT\source\repos\CursoPOOyeapp\CalsesEstaticas\bin\Debug\netcoreapp3.1\CalsesEstaticas.runtimeconfig.json
+C:\Users\NEXT\source\repos\CursoPOOyeapp\CalsesEstaticas\bin\Debug\netcoreapp3.1\CalsesEstaticas.runtimeconfig.dev.json
+C:\Users\NEXT\source\repos\CursoPOOyeapp\CalsesEstaticas\bin\Debug\netcoreapp3.1\CalsesEstaticas.dll
+C:\Users\NEXT\source\repos\CursoPOOyeapp\CalsesEstaticas\bin\Debug\netcoreapp3.1\CalsesEstaticas.pdb
+C:\Users\NEXT\source\repos\CursoPOOyeapp\CalsesEstaticas\obj\Debug\netcoreapp3.1\CalsesEstaticas.AssemblyInfoInputs.cache
+C:\Users\NEXT\source\repos\CursoPOOyeapp\CalsesEstaticas\obj\Debug\netcoreapp3.1\CalsesEstaticas.AssemblyInfo.vb
+C:\Users\NEXT\source\repos\CursoPOOyeapp\CalsesEstaticas\obj\Debug\netcoreapp3.1\CalsesEstaticas.vbproj.CoreCompileInputs.cache
+C:\Users\NEXT\source\repos\CursoPOOyeapp\CalsesEstaticas\obj\Debug\netcoreapp3.1\CalsesEstaticas.dll
+C:\Users\NEXT\source\repos\CursoPOOyeapp\CalsesEstaticas\obj\Debug\netcoreapp3.1\CalsesEstaticas.pdb
+C:\Users\NEXT\source\repos\CursoPOOyeapp\CalsesEstaticas\obj\Debug\netcoreapp3.1\CalsesEstaticas.genruntimeconfig.cache
+C:\Users\NEXT\source\repos\CursoPOOyeapp\CalsesEstaticas\obj\Debug\netcoreapp3.1\CalsesEstaticas.vbproj.AssemblyReference.cache

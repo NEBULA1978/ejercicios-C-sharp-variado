@@ -1,0 +1,7 @@
+C:\Users\NEXT\source\repos\swicthAvanzado\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\NEXT\source\repos\swicthAvanzado\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\NEXT\source\repos\swicthAvanzado\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\NEXT\source\repos\swicthAvanzado\ConsoleApp1\obj\Debug\sitcheAvanzat.csproj.AssemblyReference.cache
+C:\Users\NEXT\source\repos\swicthAvanzado\ConsoleApp1\obj\Debug\sitcheAvanzat.csproj.CoreCompileInputs.cache
+C:\Users\NEXT\source\repos\swicthAvanzado\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\NEXT\source\repos\swicthAvanzado\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

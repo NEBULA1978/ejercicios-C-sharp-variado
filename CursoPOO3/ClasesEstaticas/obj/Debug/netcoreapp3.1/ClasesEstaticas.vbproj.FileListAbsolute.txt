@@ -1,0 +1,26 @@
+C:\Users\NEXT\source\repos\CursoPOO3\ClasesEstaticas\bin\Debug\netcoreapp3.1\ClasesEstaticas.exe
+C:\Users\NEXT\source\repos\CursoPOO3\ClasesEstaticas\bin\Debug\netcoreapp3.1\ClasesEstaticas.deps.json
+C:\Users\NEXT\source\repos\CursoPOO3\ClasesEstaticas\bin\Debug\netcoreapp3.1\ClasesEstaticas.runtimeconfig.json
+C:\Users\NEXT\source\repos\CursoPOO3\ClasesEstaticas\bin\Debug\netcoreapp3.1\ClasesEstaticas.runtimeconfig.dev.json
+C:\Users\NEXT\source\repos\CursoPOO3\ClasesEstaticas\bin\Debug\netcoreapp3.1\ClasesEstaticas.dll
+C:\Users\NEXT\source\repos\CursoPOO3\ClasesEstaticas\bin\Debug\netcoreapp3.1\ClasesEstaticas.pdb
+C:\Users\NEXT\source\repos\CursoPOO3\ClasesEstaticas\obj\Debug\netcoreapp3.1\ClasesEstaticas.vbproj.AssemblyReference.cache
+C:\Users\NEXT\source\repos\CursoPOO3\ClasesEstaticas\obj\Debug\netcoreapp3.1\ClasesEstaticas.AssemblyInfoInputs.cache
+C:\Users\NEXT\source\repos\CursoPOO3\ClasesEstaticas\obj\Debug\netcoreapp3.1\ClasesEstaticas.AssemblyInfo.vb
+C:\Users\NEXT\source\repos\CursoPOO3\ClasesEstaticas\obj\Debug\netcoreapp3.1\ClasesEstaticas.vbproj.CoreCompileInputs.cache
+C:\Users\NEXT\source\repos\CursoPOO3\ClasesEstaticas\obj\Debug\netcoreapp3.1\ClasesEstaticas.dll
+C:\Users\NEXT\source\repos\CursoPOO3\ClasesEstaticas\obj\Debug\netcoreapp3.1\ClasesEstaticas.pdb
+C:\Users\NEXT\source\repos\CursoPOO3\ClasesEstaticas\obj\Debug\netcoreapp3.1\ClasesEstaticas.genruntimeconfig.cache
+G:\ejercicios C sharp\CursoPOO3\ClasesEstaticas\bin\Debug\netcoreapp3.1\ClasesEstaticas.exe
+G:\ejercicios C sharp\CursoPOO3\ClasesEstaticas\bin\Debug\netcoreapp3.1\ClasesEstaticas.deps.json
+G:\ejercicios C sharp\CursoPOO3\ClasesEstaticas\bin\Debug\netcoreapp3.1\ClasesEstaticas.runtimeconfig.json
+G:\ejercicios C sharp\CursoPOO3\ClasesEstaticas\bin\Debug\netcoreapp3.1\ClasesEstaticas.runtimeconfig.dev.json
+G:\ejercicios C sharp\CursoPOO3\ClasesEstaticas\bin\Debug\netcoreapp3.1\ClasesEstaticas.dll
+G:\ejercicios C sharp\CursoPOO3\ClasesEstaticas\bin\Debug\netcoreapp3.1\ClasesEstaticas.pdb
+G:\ejercicios C sharp\CursoPOO3\ClasesEstaticas\obj\Debug\netcoreapp3.1\ClasesEstaticas.vbproj.AssemblyReference.cache
+G:\ejercicios C sharp\CursoPOO3\ClasesEstaticas\obj\Debug\netcoreapp3.1\ClasesEstaticas.AssemblyInfoInputs.cache
+G:\ejercicios C sharp\CursoPOO3\ClasesEstaticas\obj\Debug\netcoreapp3.1\ClasesEstaticas.AssemblyInfo.vb
+G:\ejercicios C sharp\CursoPOO3\ClasesEstaticas\obj\Debug\netcoreapp3.1\ClasesEstaticas.vbproj.CoreCompileInputs.cache
+G:\ejercicios C sharp\CursoPOO3\ClasesEstaticas\obj\Debug\netcoreapp3.1\ClasesEstaticas.dll
+G:\ejercicios C sharp\CursoPOO3\ClasesEstaticas\obj\Debug\netcoreapp3.1\ClasesEstaticas.pdb
+G:\ejercicios C sharp\CursoPOO3\ClasesEstaticas\obj\Debug\netcoreapp3.1\ClasesEstaticas.genruntimeconfig.cache

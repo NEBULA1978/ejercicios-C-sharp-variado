@@ -1,0 +1,3 @@
+﻿  PrimerProyecto.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\sal.h(2361,1): error C2144: error de sintaxis: 'int' debe estar precedido de ';'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\sal.h(2361,8): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int

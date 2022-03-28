@@ -1,0 +1,13 @@
+C:\Users\NEXT\source\repos\CursoUltimPOO\Cobstructores\bin\Debug\netcoreapp3.1\Cobstructores.exe
+C:\Users\NEXT\source\repos\CursoUltimPOO\Cobstructores\bin\Debug\netcoreapp3.1\Cobstructores.deps.json
+C:\Users\NEXT\source\repos\CursoUltimPOO\Cobstructores\bin\Debug\netcoreapp3.1\Cobstructores.runtimeconfig.json
+C:\Users\NEXT\source\repos\CursoUltimPOO\Cobstructores\bin\Debug\netcoreapp3.1\Cobstructores.runtimeconfig.dev.json
+C:\Users\NEXT\source\repos\CursoUltimPOO\Cobstructores\bin\Debug\netcoreapp3.1\Cobstructores.dll
+C:\Users\NEXT\source\repos\CursoUltimPOO\Cobstructores\bin\Debug\netcoreapp3.1\Cobstructores.pdb
+C:\Users\NEXT\source\repos\CursoUltimPOO\Cobstructores\obj\Debug\netcoreapp3.1\Cobstructores.vbproj.AssemblyReference.cache
+C:\Users\NEXT\source\repos\CursoUltimPOO\Cobstructores\obj\Debug\netcoreapp3.1\Cobstructores.AssemblyInfoInputs.cache
+C:\Users\NEXT\source\repos\CursoUltimPOO\Cobstructores\obj\Debug\netcoreapp3.1\Cobstructores.AssemblyInfo.vb
+C:\Users\NEXT\source\repos\CursoUltimPOO\Cobstructores\obj\Debug\netcoreapp3.1\Cobstructores.vbproj.CoreCompileInputs.cache
+C:\Users\NEXT\source\repos\CursoUltimPOO\Cobstructores\obj\Debug\netcoreapp3.1\Cobstructores.dll
+C:\Users\NEXT\source\repos\CursoUltimPOO\Cobstructores\obj\Debug\netcoreapp3.1\Cobstructores.pdb
+C:\Users\NEXT\source\repos\CursoUltimPOO\Cobstructores\obj\Debug\netcoreapp3.1\Cobstructores.genruntimeconfig.cache

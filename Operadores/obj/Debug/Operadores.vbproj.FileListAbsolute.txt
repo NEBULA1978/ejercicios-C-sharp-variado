@@ -1,0 +1,24 @@
+C:\Users\NEXT\source\repos\Operadores\bin\Debug\Operadores.exe.config
+C:\Users\NEXT\source\repos\Operadores\bin\Debug\Operadores.exe
+C:\Users\NEXT\source\repos\Operadores\bin\Debug\Operadores.pdb
+C:\Users\NEXT\source\repos\Operadores\bin\Debug\Operadores.xml
+C:\Users\NEXT\source\repos\Operadores\obj\Debug\Operadores.vbproj.AssemblyReference.cache
+C:\Users\NEXT\source\repos\Operadores\obj\Debug\Operadores.Form1.resources
+C:\Users\NEXT\source\repos\Operadores\obj\Debug\Operadores.Resources.resources
+C:\Users\NEXT\source\repos\Operadores\obj\Debug\Operadores.vbproj.GenerateResource.cache
+C:\Users\NEXT\source\repos\Operadores\obj\Debug\Operadores.vbproj.CoreCompileInputs.cache
+C:\Users\NEXT\source\repos\Operadores\obj\Debug\Operadores.exe
+C:\Users\NEXT\source\repos\Operadores\obj\Debug\Operadores.xml
+C:\Users\NEXT\source\repos\Operadores\obj\Debug\Operadores.pdb
+H:\ejercicios C sharp\Operadores\bin\Debug\Operadores.exe.config
+H:\ejercicios C sharp\Operadores\bin\Debug\Operadores.exe
+H:\ejercicios C sharp\Operadores\bin\Debug\Operadores.pdb
+H:\ejercicios C sharp\Operadores\bin\Debug\Operadores.xml
+H:\ejercicios C sharp\Operadores\obj\Debug\Operadores.vbproj.AssemblyReference.cache
+H:\ejercicios C sharp\Operadores\obj\Debug\Operadores.Form1.resources
+H:\ejercicios C sharp\Operadores\obj\Debug\Operadores.Resources.resources
+H:\ejercicios C sharp\Operadores\obj\Debug\Operadores.vbproj.GenerateResource.cache
+H:\ejercicios C sharp\Operadores\obj\Debug\Operadores.vbproj.CoreCompileInputs.cache
+H:\ejercicios C sharp\Operadores\obj\Debug\Operadores.exe
+H:\ejercicios C sharp\Operadores\obj\Debug\Operadores.xml
+H:\ejercicios C sharp\Operadores\obj\Debug\Operadores.pdb
